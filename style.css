@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    
+}
+h2{
+    color: white;
+    font-size: 40px;
+    font-family:cursive;
+    
+
+}
+
+.login
+{
+    font-family:cursive;
+    color: rosybrown;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
